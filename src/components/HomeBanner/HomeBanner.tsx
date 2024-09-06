@@ -8,8 +8,8 @@ const HomeBanner = (props: Props) => {
     <section className="home_banner_area">
 
         <Parallax
-          blur={0}
-          bgImage="/images/home-banner.jpg.webp"
+          blur={6}
+          bgImage="/images/pikaso.jpeg"
           bgImageAlt="home banner"
           strength={100}
           className="container-fluid banner_inner d-flex"
@@ -17,14 +17,14 @@ const HomeBanner = (props: Props) => {
         >
           <div className="container">
             <div className="banner_content text-center">
-              <span>Future construction</span>
+              <span>Your DEX, Your Rules</span>
               <h3>
-                Make your dream home
+              Your Gateway to the Decentralized World
                 <br />
-                with sintac
+                with MegaMatchSwap
               </h3>
               <a className="main_btn" href="#">
-                get a quote
+                Launch D-App
               </a>
             </div>
           </div>
