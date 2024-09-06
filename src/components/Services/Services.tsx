@@ -10,7 +10,7 @@ const Services = (props: Props) => {
         <div className="area-heading">
           <h3 className="line">What We Provide</h3>
           <p>
-            Depending on the project's roadmap and the evolving landscape of
+            Depending on the project{`'`}s roadmap and the evolving landscape of
             decentralized finance.
           </p>
         </div>
