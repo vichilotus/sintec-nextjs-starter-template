@@ -96,7 +96,7 @@ const Services = (props: Props) => {
                 <p>
                   By fostering a strong sense of community, MMS can create a
                   more vibrant and sustainable platform. A thriving community
-                  can contribute to the platform's growth, development, and
+                  can contribute to the platform{`'`}s growth, development, and
                   overall success.
                 </p>
               </div>
