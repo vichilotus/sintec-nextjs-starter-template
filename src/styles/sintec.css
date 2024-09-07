@@ -1411,13 +1411,24 @@ ul {
 /* Clients Logo Area css
 ======================================================================= */
 .number-area {
-  background: url(/images/bg1.jpg);
+  background: url(/images/bg1.jpg.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   padding-top: 65px;
 }
-
+.number-img {
+  width: auto;
+  height: auto;
+}
+.navbar-brand logo_h {
+  width: auto;
+  height: auto;
+}
+.about-img {
+  width: auto;
+  height: auto;
+}
 .number-content {
   padding-top: 60px;
 }
@@ -2825,7 +2836,7 @@ h6 {
   padding: 25px 60px 25px 30px;
   border-radius: 5px;
   box-shadow: -2px 5.7px 20px 0 rgba(9, 30, 107, 0.05);
-  background-image: url(/images/cotation.png);
+  background-image: url(/images/cotation.png.webp);
   background-size: auto;
   background-position: 100% -128%;
   background-repeat: no-repeat;
@@ -2989,7 +3000,7 @@ h6 {
   z-index: 1;
 }
 .service-area .single-service .service-icon img {
-    display: unset;
+  display: unset;
 }
 .service-area .single-service .service-icon:after {
   content: "";

@@ -10,7 +10,7 @@ const Stats = (props: Props) => {
         <div className="row justify-content-center">
           <div className="col-md-5 col-lg-5">
             <div className="number-img">
-              <Image width={336} height={462} src="/images/stats.png" alt="" />
+              <Image width={336} height={480} src="/images/stats.png" alt="" />
             </div>
           </div>
           <div className="col-md-7 col-lg-6">
