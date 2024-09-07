@@ -56,9 +56,9 @@ const Testimonials = (props: Props) => {
             >
               <div className="single-testimonial item d-flex flex-row">
                 <div className="thumb">
-                  <Image width={91} height={91}
+                  <Image width={128} height={128}
                     className="img-fluid"
-                    src="/images/tes1.jpg.webp"
+                    src="/images/king.png"
                     alt=""
                   />
                 </div>
@@ -74,9 +74,9 @@ const Testimonials = (props: Props) => {
               </div>
               <div className="single-testimonial item d-flex flex-row">
                 <div className="thumb">
-                  <Image width={91} height={91}
+                  <Image width={128} height={128}
                     className="img-fluid"
-                    src="/images/tex2.jpg.webp"
+                    src="/images/bull.png"
                     alt=""
                   />
                 </div>
@@ -92,9 +92,9 @@ const Testimonials = (props: Props) => {
               </div>
               <div className="single-testimonial item d-flex flex-row">
                 <div className="thumb">
-                  <Image width={91} height={91}
+                  <Image width={128} height={128}
                     className="img-fluid"
-                    src="/images/tes1.jpg.webp"
+                    src="/images/trader.png"
                     alt=""
                   />
                 </div>
@@ -110,9 +110,9 @@ const Testimonials = (props: Props) => {
               </div>
               <div className="single-testimonial item d-flex flex-row">
                 <div className="thumb">
-                  <Image width={91} height={91}
+                  <Image width={128} height={128}
                     className="img-fluid"
-                    src="/images/tex2.jpg.webp"
+                    src="/images/samurai.png"
                     alt=""
                   />
                 </div>
@@ -128,9 +128,9 @@ const Testimonials = (props: Props) => {
               </div>
               <div className="single-testimonial item d-flex flex-row">
                 <div className="thumb">
-                  <Image width={91} height={91}
+                  <Image width={128} height={128}
                     className="img-fluid"
-                    src="/images/tes1.jpg.webp"
+                    src="/images/investor.png"
                     alt=""
                   />
                   

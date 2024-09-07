@@ -15,7 +15,7 @@ const Blog = (props: Props) => {
             <div className="col-lg-4 col-md-4">
               <div className="single-blog">
                 <div className="thumb">
-                  <Image width={360} height={285} className="img-fluid" src="/images/1.jpg.webp" alt="" />
+                  <Image width={408} height={285} className="img-fluid" src="/images/mobile.png" alt="" />
                 </div>
                 <div className="short_details">
                   <div className="meta-top d-flex">
@@ -38,7 +38,7 @@ const Blog = (props: Props) => {
             <div className="col-lg-4 col-md-4">
               <div className="single-blog">
                 <div className="thumb">
-                  <Image width={360} height={285} className="img-fluid" src="/images/2.jpg.webp" alt="" />
+                  <Image width={408} height={285} className="img-fluid" src="/images/truecost.png" alt="" />
                 </div>
                 <div className="short_details">
                   <div className="meta-top d-flex">
@@ -61,7 +61,76 @@ const Blog = (props: Props) => {
             <div className="col-lg-4 col-md-4">
               <div className="single-blog">
                 <div className="thumb">
-                  <Image width={360} height={285} className="img-fluid" src="/images/3.jpg.webp" alt="" />
+                  <Image width={408} height={285} className="img-fluid" src="/images/dashboard.png" alt="" />
+                </div>
+                <div className="short_details">
+                  <div className="meta-top d-flex">
+                    <a href="#">
+                      <i className="ti-calendar"></i> Feb 14, 2019
+                    </a>
+                    <a href="#">
+                      <i className="ti-folder"></i> company
+                    </a>
+                  </div>
+                  <a className="d-block" href="single-blog.html">
+                    <h4>
+                      Yielding called winged years they are likeness hath
+                      morning
+                    </h4>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-4">
+              <div className="single-blog">
+                <div className="thumb">
+                  <Image width={408} height={285} className="img-fluid" src="/images/widget.png" alt="" />
+                </div>
+                <div className="short_details">
+                  <div className="meta-top d-flex">
+                    <a href="#">
+                      <i className="ti-calendar"></i> Feb 14, 2019
+                    </a>
+                    <a href="#">
+                      <i className="ti-folder"></i> company
+                    </a>
+                  </div>
+                  <a className="d-block" href="single-blog.html">
+                    <h4>
+                      Yielding called winged years they are likeness hath
+                      morning
+                    </h4>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-4">
+              <div className="single-blog">
+                <div className="thumb">
+                  <Image width={408} height={285} className="img-fluid" src="/images/office.jpg" alt="" />
+                </div>
+                <div className="short_details">
+                  <div className="meta-top d-flex">
+                    <a href="#">
+                      <i className="ti-calendar"></i> Feb 14, 2019
+                    </a>
+                    <a href="#">
+                      <i className="ti-folder"></i> company
+                    </a>
+                  </div>
+                  <a className="d-block" href="single-blog.html">
+                    <h4>
+                      Yielding called winged years they are likeness hath
+                      morning
+                    </h4>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-md-4">
+              <div className="single-blog">
+                <div className="thumb">
+                  <Image width={408} height={285} className="img-fluid" src="/images/portfolio.png" alt="" />
                   
                 </div>
                 <div className="short_details">

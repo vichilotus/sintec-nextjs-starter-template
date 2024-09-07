@@ -31,9 +31,9 @@ const Portfolio = ({ showHeading = true }: Props) => {
               
               <div className="col-lg-6 col-md-6 all following">
                 <div className="single_portfolio">
-                  <Image width={555} height={419}
+                  <Image width={512} height={512}
                     className="img-fluid w-100"
-                    src="/images/1.jpg.webp"
+                    src="/images/doge.webp"
                     alt=""
                   />
                   <div className="short_info">
@@ -46,9 +46,9 @@ const Portfolio = ({ showHeading = true }: Props) => {
               </div>
               <div className="col-lg-6 col-md-6 all latest popular upcoming">
                 <div className="single_portfolio">
-                  <Image width={555} height={419}
+                  <Image width={512} height={512}
                     className="img-fluid w-100"
-                    src="/images/2.jpg.webp"
+                    src="/images/pitbull.webp"
                     alt=""
                   />
                   <div className="short_info">
@@ -61,9 +61,9 @@ const Portfolio = ({ showHeading = true }: Props) => {
               </div>
               <div className="col-lg-6 col-md-6 all latest following">
                 <div className="single_portfolio">
-                  <Image width={555} height={419}
+                  <Image width={512} height={512}
                     className="img-fluid w-100"
-                    src="/images/3.jpg.webp"
+                    src="/images/monkey.webp"
                     alt=""
                   />
                   <div className="short_info">
@@ -76,9 +76,9 @@ const Portfolio = ({ showHeading = true }: Props) => {
               </div>
               <div className="col-lg-6 col-md-6 all latest upcoming">
                 <div className="single_portfolio">
-                  <Image width={555} height={419}
+                  <Image width={512} height={512}
                     className="img-fluid w-100"
-                    src="/images/4.jpg.webp"
+                    src="/images/shiba.webp"
                     alt=""
                   />
                   
